@@ -7,5 +7,3 @@ add your directory and in "Before Launch", add the task "tomcat7:run" before lau
 https://imgur.com/a/ImzAvwg
 
 
-!([Login Page](https://imgur.com/RzvtZ6j))
-
